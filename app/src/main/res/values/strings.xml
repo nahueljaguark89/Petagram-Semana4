@@ -1,3 +1,14 @@
 <resources>
     <string name="app_name">Petagram</string>
+    <string name="titulo_favoritas">Mascotas Favoritas</string>
+    <string name="nombre_mascota">Pug</string>
+    <string name="menu_contacto">Contacto</string>
+    <string name="menu_acerca">Acerca De</string>
+    <string name="texto_acerca">App Petagram. Hecho por Nahuel Ponce de León. Campana, Argentina. Curso de Desarrollo de Aplicaciones con Android.</string>
+    <string name="etCorreo">Correo</string>
+    <string name="etNombre">Nombre Completo</string>
+    <string name="etMensaje">Mensaje</string>
+    <string name="btnEnviar">Enviar</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
 </resources>

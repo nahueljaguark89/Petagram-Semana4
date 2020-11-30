@@ -17,6 +17,11 @@ public class Mascota {
 
     }
 
+    public Mascota(int foto, int raiting) {
+        this.foto = foto;
+        this.raiting = raiting;
+    }
+
     public int getFoto() {
         return foto;
     }

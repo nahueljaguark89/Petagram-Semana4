@@ -3,4 +3,6 @@
     <dimen name="card_margin">10dp</dimen>
     <dimen name="card_radio">4dp</dimen>
     <dimen name="elevacion_actionbar">4dp</dimen>
+    <dimen name="titulo_view">40dp</dimen>
+    <dimen name="contenido_view">20dp</dimen>
 </resources>
